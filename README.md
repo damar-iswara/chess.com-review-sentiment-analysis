@@ -75,8 +75,8 @@ Sistem menggunakan metrik **Akurasi** untuk evaluasi. Pada tahap Deep Learning, 
 
 1.  **Clone Repository**
     ```bash
-    git clone [https://github.com/username-anda/chess-com-sentiment-analysis.git](https://github.com/username-anda/chess-com-sentiment-analysis.git)
-    cd chess-com-sentiment-analysis
+    git clone [https://github.com/damar-iswara/chess.com-review-sentiment-analysis.git](https://github.com/damar-iswara/chess.com-review-sentiment-analysis.git)
+    cd chess.com-review-sentiment-analysis
     ```
 
 2.  **Install Dependencies**
@@ -97,7 +97,7 @@ Sistem menggunakan metrik **Akurasi** untuk evaluasi. Pada tahap Deep Learning, 
     ```
 
 4.  **Jalankan Notebook**
-    Buka file `.ipynb` di Jupyter Notebook atau Google Colab dan jalankan setiap sel secara berurutan.
+    Buka file `main.ipynb` di Jupyter Notebook atau Google Colab dan jalankan setiap sel secara berurutan.
 
 ## 👤 Author
 **Wahyu Damar Iswara**
