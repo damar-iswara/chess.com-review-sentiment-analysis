@@ -102,7 +102,7 @@ Sistem menggunakan metrik **Akurasi** untuk evaluasi. Pada tahap Deep Learning, 
 ## 👤 Author
 **Wahyu Damar Iswara**
 * [GitHub Profile](https://github.com/damar-iswara)
-* [LinkedIn](https://linkedin.com/in/wahyudamariswara)
+* [LinkedIn](https://www.linkedin.com/in/wahyu-damar-iswara/)
 
 ---
 *Jika proyek ini bermanfaat, jangan lupa berikan ⭐ pada repositori ini!*
